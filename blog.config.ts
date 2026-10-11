@@ -7,20 +7,20 @@ const basicConfig = {
 	description: '在有序的世界里，寻一处生活的归栈。用理性梳理日常，用技术温柔时光。',
 	author: {
 		name: 'kerntau',
-		avatar: 'https://keru.in/avatar.webp',
+		avatar: 'https://github.com/kerntau.png',
 		email: '1722288011@qq.com',
-		homepage: 'https://keru.in/',
+		homepage: 'https://github.com/kerntau/blog-v3/',
 	},
 	copyright: {
 		abbr: 'CC BY-NC-SA 4.0',
 		name: '署名-非商业性使用-相同方式共享 4.0 国际',
-		url: 'https://keru.in/',
+		url: 'https://github.com/kerntau/blog-v3/',
 	},
 	favicon: '/favicon.ico',
 	language: 'zh-CN',
 	timeEstablished: '2025-11-10',
 	timeZone: 'Asia/Shanghai',
-	url: 'https://keru.in/',
+	url: 'https://github.com/kerntau/blog-v3/',
 	defaultCategory: '前端开发',
 }
 
