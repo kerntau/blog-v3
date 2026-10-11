@@ -83,20 +83,6 @@ pnpm preview
 
 将构建产物部署到静态托管。发布前验证 MDX 编译、搜索索引、Atom/OPML、草稿预览和 CMS 写入流程。
 
-## 07. ENGINEERING CONTRACT // 工程契约
-
-- 文章 front matter 必须可解析并包含必要字段。
-- 生成的 public/api 数据应由脚本更新，不手工修改。
-- CMS 操作必须保持 Git 可审计，避免提交敏感配置。
-- 文章、图片和代码的许可证边界需在发布前确认。
-
-## 08. ROADMAP // 演进路线
-
-- [x] MDX、搜索、Atom/OPML 和本地 CMS
-- [x] 主题、统计和预览工作流
-- [ ] 增量构建与更快的内容索引
-- [ ] 可选的远程草稿协作
-
-## 09. LICENSE // 许可证
+## 07. LICENSE // 许可证
 
 代码遵循 [MIT](LICENSE)。文章和原创内容遵循仓库中的 CC BY-NC-SA 声明。
